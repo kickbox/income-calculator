@@ -5,3 +5,10 @@ I created this income calculator to understand the pros and cons between startin
 I would suggest to protect your downside by creating tiny projects that would take care of your monthly expenses. Or you could save a huge pile of money to have long runway for your new business.
 
 You can input your variables in the calculator to find how much value(in dollars) can you capture in the long term. 
+
+## Screenshot
+
+![Job vs Business Income calculator](https://raw.githubusercontent.com/kickbox/income-calculator/master/5%20year%20-%20growth%20graph%20Job%20vs%20Business.PNG)
+
+
+
