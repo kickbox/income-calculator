@@ -1,4 +1,4 @@
-# Income Calculator
+# Job vs Business - Income Calculator
 
 I created this income calculator to understand the pros and cons between starting a business and working in a Job. The hardest part of a business is overcoming the the risks involved in making it successful.
 
